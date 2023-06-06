@@ -57,7 +57,7 @@ export default {
       },
       fontFamily: {
         arenq: ['Arenq'],
-        beckman: ['Beckman'],
+        beckman: ['HL-Brush-3BK'],
         mova: ['Mova'],
         overcameBold: ['Overcame Bold'],
         overcameOutline: ['Overcame Outline'],
